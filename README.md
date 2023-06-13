@@ -1,4 +1,4 @@
-# Jugando juegos de Windows en Mac
+# Ejecutando juegos de Windows en Mac
 
 ![](/Portada%20Game%20Porting%20toolkit.png)
 
